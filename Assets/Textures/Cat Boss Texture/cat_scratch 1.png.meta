@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 58f099f8ab15a6949ac213ec6b8338f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5594350401033833958
+    second: cat_scratch_0
+  - first:
+      213: -8491944984866241849
+    second: cat_scratch_1
+  - first:
+      213: 528836377486367026
+    second: cat_scratch_2
+  - first:
+      213: -4524006617493472021
+    second: cat_scratch_3
+  - first:
+      213: 2901416142847116327
+    second: cat_scratch_4
+  - first:
+      213: -6029581253622257291
+    second: cat_scratch_5
+  - first:
+      213: -8287363603732880881
+    second: cat_scratch_6
+  - first:
+      213: -6664735220816726620
+    second: cat_scratch_7
+  - first:
+      213: 1597062544423611999
+    second: cat_scratch_8
+  - first:
+      213: -5284776896434240004
+    second: cat_scratch_9
+  - first:
+      213: -4525050402505169941
+    second: cat_scratch_10
+  - first:
+      213: 4274920093714197694
+    second: cat_scratch_11
+  - first:
+      213: 1027038214086591560
+    second: cat_scratch_12
+  - first:
+      213: 558619057201745546
+    second: cat_scratch_13
+  - first:
+      213: -601127279485560712
+    second: cat_scratch_14
+  - first:
+      213: 6618047321868696024
+    second: cat_scratch_15
+  - first:
+      213: -2552462847465563597
+    second: cat_scratch_16
+  - first:
+      213: 1019748343334398223
+    second: cat_scratch_17
+  - first:
+      213: -1604994961088630906
+    second: cat_scratch_18
+  - first:
+      213: 1827464709488410176
+    second: cat_scratch_19
+  - first:
+      213: -5351960144103804025
+    second: cat_scratch_20
+  - first:
+      213: -763175761984737700
+    second: cat_scratch_21
+  - first:
+      213: 3942949039438631401
+    second: cat_scratch_22
+  - first:
+      213: 8074699977110001873
+    second: cat_scratch_23
+  - first:
+      213: -2506930938462717636
+    second: cat_scratch_24
+  - first:
+      213: 5549326548816144149
+    second: cat_scratch_25
+  - first:
+      213: -6139467267384344454
+    second: cat_scratch_26
+  - first:
+      213: -3160933816419311364
+    second: cat_scratch_27
+  - first:
+      213: 7051047384873735093
+    second: cat_scratch_28
+  - first:
+      213: -4359025045978200103
+    second: cat_scratch_29
+  - first:
+      213: 2894987442169314918
+    second: cat_scratch_30
+  - first:
+      213: -7617657935112028918
+    second: cat_scratch_31
+  - first:
+      213: -4131941166528855665
+    second: cat_scratch_32
+  - first:
+      213: -62619866574084284
+    second: cat_scratch_33
+  - first:
+      213: 6170887602147158755
+    second: cat_scratch_34
+  - first:
+      213: 4066242965192822217
+    second: cat_scratch_35
+  - first:
+      213: 1789298361992562511
+    second: cat_scratch_36
+  - first:
+      213: 6171112774952597565
+    second: cat_scratch_37
+  - first:
+      213: 3229088984972790317
+    second: cat_scratch_38
+  - first:
+      213: -330268334690381826
+    second: cat_scratch_39
+  - first:
+      213: -138403816133626131
+    second: cat_scratch_40
+  - first:
+      213: 7059878018369442065
+    second: cat_scratch_41
+  - first:
+      213: 4780884959287922357
+    second: cat_scratch_42
+  - first:
+      213: -3780099047291577251
+    second: cat_scratch_43
+  - first:
+      213: -3680408001680976451
+    second: cat_scratch_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 800
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cat_scratch 1_0
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806d20ae7ec5c944691b61759d260778
+      internalID: -283752696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fd30a119447bc47847fdb2079e8ea9
+      internalID: -1259663808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129af1627b56e794288f488f80611b8a
+      internalID: -1274353384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1d90ce2bfc084eab672750bd06330
+      internalID: 1126402352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79aa689f5662a40bcf50674f76d3fd
+      internalID: 313910290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a512c788212146a068a8fae5bc7c0
+      internalID: -732736451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe94407899632b84c9cb7f2594f0482b
+      internalID: 2017764319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07063c0f8e4edda4da4aed119527f966
+      internalID: 1671830792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d9e3d0f012aef44b6c62f5c505fde4
+      internalID: -506672334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_scratch 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68baf06e771dcfa43befeee5dc6001f2
+      internalID: -1906311533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ae865518445274a449858b1eb1e704f7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cat_scratch 1_0: -283752696
+      cat_scratch 1_1: -1259663808
+      cat_scratch 1_2: -1274353384
+      cat_scratch 1_3: 1126402352
+      cat_scratch 1_4: 313910290
+      cat_scratch 1_5: -732736451
+      cat_scratch 1_6: 2017764319
+      cat_scratch 1_7: 1671830792
+      cat_scratch 1_8: -506672334
+      cat_scratch 1_9: -1906311533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

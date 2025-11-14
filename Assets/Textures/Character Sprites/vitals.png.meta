@@ -1,0 +1,825 @@
+fileFormatVersion: 2
+guid: b6c6ef5ee6b700e4f96ce91f8f91769e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7800255701401683027
+    second: vitals_0
+  - first:
+      213: -337037728526616434
+    second: vitals_1
+  - first:
+      213: 5532625218560710221
+    second: vitals_2
+  - first:
+      213: -8621626373338918216
+    second: vitals_3
+  - first:
+      213: -5766843081686232254
+    second: vitals_4
+  - first:
+      213: 483882190807642441
+    second: vitals_5
+  - first:
+      213: -7747722752830918635
+    second: vitals_6
+  - first:
+      213: -8192114797964295597
+    second: vitals_7
+  - first:
+      213: -2077065297104718268
+    second: vitals_8
+  - first:
+      213: -9011281026962355281
+    second: vitals_9
+  - first:
+      213: 7765499316540424323
+    second: vitals_10
+  - first:
+      213: -2271847778030461933
+    second: vitals_11
+  - first:
+      213: -1251880585883054805
+    second: vitals_12
+  - first:
+      213: -5252792830850731232
+    second: vitals_13
+  - first:
+      213: 112384647150355851
+    second: vitals_14
+  - first:
+      213: 3863618829498876317
+    second: vitals_15
+  - first:
+      213: -4083250590018697505
+    second: vitals_16
+  - first:
+      213: -3518566537565848463
+    second: vitals_17
+  - first:
+      213: -9192973218807580078
+    second: vitals_18
+  - first:
+      213: -8001617585962067197
+    second: vitals_19
+  - first:
+      213: 1625862938851214888
+    second: vitals_20
+  - first:
+      213: -866034119597022096
+    second: vitals_21
+  - first:
+      213: 4222628725590429036
+    second: vitals_22
+  - first:
+      213: -1731343349728967854
+    second: vitals_23
+  - first:
+      213: 2499179433145713928
+    second: vitals_24
+  - first:
+      213: -2788688073984275621
+    second: vitals_25
+  - first:
+      213: -8373427748909270758
+    second: vitals_26
+  - first:
+      213: -8613865951144860840
+    second: vitals_27
+  - first:
+      213: 6014167247118849112
+    second: vitals_28
+  - first:
+      213: 7736870292103924631
+    second: vitals_29
+  - first:
+      213: -612794447208434975
+    second: vitals_30
+  - first:
+      213: 7458648480340344797
+    second: vitals_31
+  - first:
+      213: -6687547442848635927
+    second: vitals_32
+  - first:
+      213: 4079337072866110285
+    second: vitals_33
+  - first:
+      213: -8888566432429389016
+    second: vitals_34
+  - first:
+      213: -1973209533352233461
+    second: vitals_35
+  - first:
+      213: 420455580494096689
+    second: vitals_36
+  - first:
+      213: -2077650553193650805
+    second: vitals_37
+  - first:
+      213: 3266243488833139653
+    second: vitals_38
+  - first:
+      213: 8821173258331661331
+    second: vitals_39
+  - first:
+      213: -2750842076579113002
+    second: vitals_40
+  - first:
+      213: 3962685455148477605
+    second: vitals_41
+  - first:
+      213: -3395470985974814636
+    second: vitals_42
+  - first:
+      213: 4477930639742941889
+    second: vitals_43
+  - first:
+      213: 7818056172446264107
+    second: vitals_44
+  - first:
+      213: -4016126650217972756
+    second: vitals_45
+  - first:
+      213: -7247575796741425458
+    second: vitals_46
+  - first:
+      213: -5736104760076313425
+    second: vitals_47
+  - first:
+      213: -5224951614372256613
+    second: vitals_48
+  - first:
+      213: -8832973614702062156
+    second: vitals_49
+  - first:
+      213: 6973622367611691838
+    second: vitals_50
+  - first:
+      213: -6200383866716101578
+    second: vitals_51
+  - first:
+      213: 6275780586462254738
+    second: vitals_52
+  - first:
+      213: 62060778008197193
+    second: vitals_53
+  - first:
+      213: -5457227518764541737
+    second: vitals_54
+  - first:
+      213: 3429069282935577881
+    second: vitals_55
+  - first:
+      213: 3571118192310540338
+    second: vitals_56
+  - first:
+      213: 3706377541582601956
+    second: vitals_57
+  - first:
+      213: -3424670878276766582
+    second: vitals_58
+  - first:
+      213: 4270754014989152518
+    second: vitals_59
+  - first:
+      213: -5919067570308007626
+    second: vitals_60
+  - first:
+      213: 2415089898518591423
+    second: vitals_61
+  - first:
+      213: 6815707891339007668
+    second: vitals_62
+  - first:
+      213: 1921577666140509953
+    second: vitals_63
+  - first:
+      213: -8494575402319275747
+    second: vitals_64
+  - first:
+      213: -5162376471017584535
+    second: vitals_65
+  - first:
+      213: -5657914820605371937
+    second: vitals_66
+  - first:
+      213: -2947668438595770656
+    second: vitals_67
+  - first:
+      213: -3719168663535620177
+    second: vitals_68
+  - first:
+      213: -7921121600376841680
+    second: vitals_69
+  - first:
+      213: 4856852859651420640
+    second: vitals_70
+  - first:
+      213: -2513016534042288024
+    second: vitals_71
+  - first:
+      213: 432914289962279211
+    second: vitals_72
+  - first:
+      213: 5998323381640460193
+    second: vitals_73
+  - first:
+      213: -7906095419955299135
+    second: vitals_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vitals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354434f9b33104c60800000000000000
+      internalID: 7800255701401683027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88344bb8f9925bf0800000000000000
+      internalID: -337037728526616434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ddabb255d7cc40800000000000000
+      internalID: 5532625218560710221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b29ef62e74d95880800000000000000
+      internalID: -8621626373338918216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2435ca075ce08ffa0800000000000000
+      internalID: -5766843081686232254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9413a30f94817b600800000000000000
+      internalID: 483882190807642441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5103d4b943f8a7490800000000000000
+      internalID: -7747722752830918635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3520e14bef2cf4e80800000000000000
+      internalID: -8192114797964295597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44638c6fd18cc23e0800000000000000
+      internalID: -2077065297104718268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab01b856af71f280800000000000000
+      internalID: -9011281026962355281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3804ee92c7894cb60800000000000000
+      internalID: 7765499316540424323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cdbbe8b76c870e0800000000000000
+      internalID: -2271847778030461933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d8b396d3d60aee0800000000000000
+      internalID: -1251880585883054805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0237c6630c45a17b0800000000000000
+      internalID: -5252792830850731232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ca9bbd354f8100800000000000000
+      internalID: 112384647150355851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d918ac7ead45e9530800000000000000
+      internalID: 3863618829498876317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6080de8316557c0800000000000000
+      internalID: -4083250590018697505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbfc1506a8b2fc0800000000000000
+      internalID: -3518566537565848463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a7b4f509ffb6080800000000000000
+      internalID: -9192973218807580078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b5630333b84f090800000000000000
+      internalID: -8001617585962067197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vitals_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82603bb8ab9309610800000000000000
+      internalID: 1625862938851214888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5f367ea96ce664244b6e249fcf5b7a70
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vitals_0: 7800255701401683027
+      vitals_1: -337037728526616434
+      vitals_10: 7765499316540424323
+      vitals_11: -2271847778030461933
+      vitals_12: -1251880585883054805
+      vitals_13: -5252792830850731232
+      vitals_14: 112384647150355851
+      vitals_15: 3863618829498876317
+      vitals_16: -4083250590018697505
+      vitals_17: -3518566537565848463
+      vitals_18: -9192973218807580078
+      vitals_19: -8001617585962067197
+      vitals_2: 5532625218560710221
+      vitals_20: 1625862938851214888
+      vitals_3: -8621626373338918216
+      vitals_4: -5766843081686232254
+      vitals_5: 483882190807642441
+      vitals_6: -7747722752830918635
+      vitals_7: -8192114797964295597
+      vitals_8: -2077065297104718268
+      vitals_9: -9011281026962355281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

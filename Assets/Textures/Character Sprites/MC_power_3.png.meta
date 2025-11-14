@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 2c8bd44994fac8a46b5925b1aca1662b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3370191555314172147
+    second: MC_power_3_0
+  - first:
+      213: 5592153575798254098
+    second: MC_power_3_1
+  - first:
+      213: -3996198110736216469
+    second: MC_power_3_2
+  - first:
+      213: -4036214005196395015
+    second: MC_power_3_3
+  - first:
+      213: -3893729974664368526
+    second: MC_power_3_4
+  - first:
+      213: 621846892495278990
+    second: MC_power_3_5
+  - first:
+      213: -3097967462869356702
+    second: MC_power_3_6
+  - first:
+      213: 3062104258221331003
+    second: MC_power_3_7
+  - first:
+      213: 7921249801719225723
+    second: MC_power_3_8
+  - first:
+      213: 7516544660865116634
+    second: MC_power_3_9
+  - first:
+      213: 7776386073535396818
+    second: MC_power_3_10
+  - first:
+      213: 8624020109455318639
+    second: MC_power_3_11
+  - first:
+      213: 6575832004039343063
+    second: MC_power_3_12
+  - first:
+      213: -7703101518837302476
+    second: MC_power_3_13
+  - first:
+      213: -5284248332218529693
+    second: MC_power_3_14
+  - first:
+      213: -1936345003345561567
+    second: MC_power_3_15
+  - first:
+      213: -913327016604124811
+    second: MC_power_3_16
+  - first:
+      213: 2025965178564288613
+    second: MC_power_3_17
+  - first:
+      213: 2701394414210403832
+    second: MC_power_3_18
+  - first:
+      213: -281892484575212142
+    second: MC_power_3_19
+  - first:
+      213: 1154059329970762812
+    second: MC_power_3_20
+  - first:
+      213: -3532455642348808630
+    second: MC_power_3_21
+  - first:
+      213: 1347456522855866268
+    second: MC_power_3_22
+  - first:
+      213: 7843126676829193089
+    second: MC_power_3_23
+  - first:
+      213: 3970393981610787255
+    second: MC_power_3_24
+  - first:
+      213: 2716667978167230693
+    second: MC_power_3_25
+  - first:
+      213: -8525043897276499894
+    second: MC_power_3_26
+  - first:
+      213: -2869750814656736690
+    second: MC_power_3_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MC_power_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c58f0d5355ce20800000000000000
+      internalID: 3370191555314172147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa2e67c025b9d40800000000000000
+      internalID: 5592153575798254098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e0b75bdf6aa88c0800000000000000
+      internalID: -3996198110736216469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdefce3fbc7cf7c0800000000000000
+      internalID: -4036214005196395015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ee6d8c731b6f9c0800000000000000
+      internalID: -3893729974664368526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e839cdb347e31a800800000000000000
+      internalID: 621846892495278990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MC_power_3_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f24f9910fc105d0800000000000000
+      internalID: -3097967462869356702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5c029a01ed1d584ca24a4dee8549734
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MC_power_3_0: 3370191555314172147
+      MC_power_3_1: 5592153575798254098
+      MC_power_3_2: -3996198110736216469
+      MC_power_3_3: -4036214005196395015
+      MC_power_3_4: -3893729974664368526
+      MC_power_3_5: 621846892495278990
+      MC_power_3_6: -3097967462869356702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

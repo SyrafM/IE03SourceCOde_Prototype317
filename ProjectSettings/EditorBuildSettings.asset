@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/UI/AlwaysAlive.unity
+    guid: 46aa81ec8b10b6f42815b1da12a52c42
+  - enabled: 1
+    path: Assets/Scenes/UI/MainMenu.unity
+    guid: 936ed19da6a461f428e69dff334f237b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/2D Cat Tutorial Boss.unity
+    guid: f2f28174ec6558849a648c8ad68a3bcb
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/2D Chat Log Puzzle.unity
+    guid: a289d997132f9074cb8bf830ff60ab18
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/2D Chat Log Puzzle 2.unity
+    guid: 01df8a3bf9ed47844b690c82d95da948
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/Level1.unity
+    guid: 64b5ed8547fdb5d418dea3e93a4a3c8d
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/2D Cat Boss.unity
+    guid: 118142d8aee0fcd4e94a8e7af87fdc5a
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/Puzzle1.unity
+    guid: bd9df3e0cda7c5f4fbedf217fe0d20ad
+  - enabled: 1
+    path: Assets/Scenes/Level2/2D Firewall Boss.unity
+    guid: d30b2e1e2b7be664e91470e7d30f9837
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level 2.unity
+    guid: 7d086e82344636f4cbb1c804b3d58b69
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level 2 Raphael.unity
+    guid: 1b79326739598af4a94267cef00e32ec
+  - enabled: 1
+    path: Assets/Scenes/Level2/Puzzle2.1.unity
+    guid: 9391a3b895af63345a520dd88376fdf6
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level2Video.unity
+    guid: b4ae725cdd6abc34cbdbddc3a74c00e3
+  - enabled: 1
+    path: Assets/Scenes/Level2/Puzzle2.2.unity
+    guid: 45ff247466b1e49418eec815bebda6d1
+  - enabled: 1
+    path: Assets/Scenes/Level2/Puzzle2.3.unity
+    guid: 614a776339b81c84c80f4e67628a7121
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/Tutorial.unity
+    guid: 9c4919a69505c4449ada76baa1dfd9a1
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/2D Cat Tutorial Boss Showcase.unity
+    guid: 7c737b20c340f354897c9576cf0b48f2
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/ShowcaseTutorial.unity
+    guid: e53483990794b2448be84d139abb9ca6
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/Puzzle1.2.unity
+    guid: ca44fe34e57797542bf55a24851f0922
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level2Showcase.unity
+    guid: 11456d11e2fbbe54181fa48e186cc154
+  - enabled: 1
+    path: Assets/Scenes/Level1Scene/Puzzle1 Showcase.unity
+    guid: 401e456b5ff4d96459923474554b47d7
+  - enabled: 1
+    path: Assets/Scenes/Level2/Level 2 Bot Off.unity
+    guid: ed0eb6d3adc2d4f42abff001665367a2
+  - enabled: 1
+    path: Assets/Scenes/Level2/Puzzle2.3BO.unity
+    guid: 1bee3a277eda3a343ac8856ffd4d9a93
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
